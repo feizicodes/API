@@ -6,4 +6,6 @@
 *.json 
 #ignore all db files
 *.db
+#ignore stremlit_app_old.py
+streamlit_app_old.py
 

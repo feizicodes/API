@@ -1,3 +1,9 @@
 .env
 /.streamlit
+#ignore all csv files
+*.csv
+#ignore all json files
+*.json 
+#ignore all db files
+*.db
 

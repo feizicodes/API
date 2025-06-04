@@ -8,4 +8,5 @@
 *.db
 #ignore stremlit_app_old.py
 streamlit_app_old.py
+#ignore 
 

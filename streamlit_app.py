@@ -15,13 +15,8 @@ st.dataframe(df)
 st.subheader("Descriptive Statistics")
 st.write(df.describe())
 
-# Create a line chart for the 'Close' prices
 
-# Page title
-st.title("📊 Crypto Prices Dashboard")
 
-# Load CSV
-df = pd.read_csv("crypto_prices.csv")
 
 # Convert 'date' column to datetime
 #df["date"] = pd.to_datetime(df["date"]).dt.date
